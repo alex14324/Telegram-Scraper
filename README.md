@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="470" height="150">
+  <img src="https://raw.githubusercontent.com/alex14324/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="470" height="150">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
@@ -7,8 +7,8 @@
   <a href="https://github.com/th3unkn0n">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
-  <a href="https://github.com/th3unkn0n/TeleGram-Group-Scraper">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
+  <a href="https://github.com/alex14324/TeleGram-Group-Scraper">
+    <img src="https://img.shields.io/github/stars/alex14324/TeleGram-Group-Scraper?style=social">
   </a>
 </p>
 <p align="center">
@@ -66,8 +66,8 @@ https://youtu.be/I8oR9tuYyrU
 
 ---
 
-<img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_113728.jpg">
-<img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_112937.jpg">
+<img src="https://github.com/alex14324/TeleGram-Scraper/blob/master/.image/20200124_113728.jpg">
+<img src="https://github.com/alex14324/TeleGram-Scraper/blob/master/.image/20200124_112937.jpg">
 
 ---
 
